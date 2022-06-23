@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dreamintsu.github.io/sitemap.xml

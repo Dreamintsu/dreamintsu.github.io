@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Evan Zhou</title>
+    <link>https://dreamintsu.github.io/</link>
+    <description>Recent content on Evan Zhou</description>
+    <image>
+      <url>https://dreamintsu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dreamintsu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://dreamintsu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily New Word</title>
+      <link>https://dreamintsu.github.io/ideas/dailynewword/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreamintsu.github.io/ideas/dailynewword/</guid>
+      <description>Idea is to fetch a daily new word to learn.
+Adds to personal list of words. Number of words can be increased Automatically generates flashcards using dictionary Make sure that word doesn&amp;rsquo;t link to other word Maybe have flashcard in flashcard? Can fetch many words Can export into anki cards Can export into list that can be imported another place All the database things would have to also be associated with login functionality of my website Add more functionality for different languages Maybe start with just a list of words on a txt file </description>
+    </item>
+    
+    <item>
+      <title>Daily Sudoku Puzzle</title>
+      <link>https://dreamintsu.github.io/ideas/dailysudokupuzzle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreamintsu.github.io/ideas/dailysudokupuzzle/</guid>
+      <description>Grab a daily Sudoku Puzzle. Put it on the website.
+Solving it gives points by difficulty Points start out at 0. No time limit, just a puzzle to do, updates each day by UTC. Can fetch a new puzzle that gives no points Choose from Easy, Medium, Hard (+1, +2, +3) Can also use a calendar to go back and see what puzzles there are, regain lost points Would need to be done in a database </description>
+    </item>
+    
+    <item>
+      <title>Math Script</title>
+      <link>https://dreamintsu.github.io/ideas/mathscript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreamintsu.github.io/ideas/mathscript/</guid>
+      <description>Idea for a project: Fast Math script.
+The idea is that many times it is hard to directly find exactly what you need to produce LaTeX math. Produce a fast equation/expression, that can then be called into Wolfram, or LaTeX
+First produce a display that shows the expression produced The idea is that it should only do this well, and do it fast. (Good since we don&amp;rsquo;t need to evaluate expression or even check for correctness)</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://dreamintsu.github.io/hobbies/hobby1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreamintsu.github.io/hobbies/hobby1/</guid>
+      <description>Piano: 5 yrs
+Violin: 8 yrs
+Voice: 1 yr
+Currently I mostly practice voice, but my time with music has taught me what it means to have dedicated and focused practice. Music for me is a way to connect with others, a way to appreciate culture, and a way to communicate emotion. Most importantly, it&amp;rsquo;s fun to create music with others and share that with the audience!
+I&amp;rsquo;m currently a part of the Pitt Men&amp;rsquo;s Glee Club, and their small group the Pantherhythms.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://dreamintsu.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreamintsu.github.io/resume/</guid>
+      <description>PDF Here</description>
+    </item>
+    
+    <item>
+      <title>Rubix Cube Render</title>
+      <link>https://dreamintsu.github.io/ideas/rubixcuberender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreamintsu.github.io/ideas/rubixcuberender/</guid>
+      <description>Idea is to have an interactive Rubix Cube Render
+Rotate by corners, show 3 faces at a time
+Rotate by mouse Using keyboard will require 18 different commands (friendly to different keyboards)
+Main difficulty would be learning how to render it with clean animations</description>
+    </item>
+    
+    <item>
+      <title>Sudoku Solver</title>
+      <link>https://dreamintsu.github.io/projects/sudokusolver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreamintsu.github.io/projects/sudokusolver/</guid>
+      <description>Link to Repo</description>
+    </item>
+    
+  </channel>
+</rss>
